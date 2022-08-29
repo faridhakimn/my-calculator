@@ -1,0 +1,16 @@
+.Display {
+    background-color: #858694;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: right;
+    height: 100px;
+    width: 100%;
+    font-family: 'Delius', cursive;
+  }
+  
+  .display-text {
+    font-size: 2.5rem;
+    color: white;
+    padding: 0.5rem;
+  }
